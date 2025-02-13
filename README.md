@@ -1,11 +1,11 @@
-# TripleTen_Projects
-
-Projects I worked on while attending the Business Intelligence (BI) Analytics TripleTen Bootcamp.
-
-
-| Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | Spreadsheet Data Analysis: Project | The project task was to analyze airbnb data and find which neighborhoods and property sizes are most attractice and how much money was made. |
-| 2 | Business Analytics Project | The project task is to understand how users interact with a web page, users first purchase on a month to month,and calculate retention rates.. |
-| 3 | Saving Superstore | The project task was to create visualization using Tableau for profit and losses, advertising, and returned items. |
-| 4 | Storytelling with Data: Project | The project task was to determine what was causing returns for Superstore. Using Tableau to create visualizations, a dashboard, and a story to present. |
+<h1>Spreadsheet Data Analysis: Project</h1>
+<hr><h2>General Information</h2>
+<hr><ul>
+<li>Overview:
+The project task was to analyze airbnb data and find which neighborhoods and property sizes are most attractive and how much money was mad.</li>
+</ul><ul>
+<li>Summary:
+In the analysis of NYC Airbnb data I found the top ten neighborhoods with high rental demand. Harlem, Hells Kitchen, and Lower East Side being the top three. One bedroom properties are the most common in the top neighborhoods. The revenue for 1 bedroom properties is the highest compared to other property sizes.</li>
+</ul><ul>
+<li>Link: https://docs.google.com/spreadsheets/d/19EYPlw-U-QIQahmhmkC2cM6oWphczYMK5wBrfdMgdRA/edit?usp=sharing</li>
+</ul>
