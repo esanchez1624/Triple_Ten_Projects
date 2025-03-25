@@ -5,7 +5,8 @@
 The project task is to understand how users interact with a web page, users first purchase on a month to month, and calculate retention rates.</li>
 </ul><ul>
 <li>Summary:
-In the analysis of NYC Airbnb data I found the top ten neighborhoods with high rental demand. Harlem, Hells Kitchen, and Lower East Side being the top three. One bedroom properties are the most common in the top neighborhoods. The revenue for 1 bedroom properties is the highest compared to other property sizes.</li>
+The total conversion rate and conversion rate are low. E-commerce company need to look at ways to increase conversion rate.
+The retention rate is very low. Could be low since we are looking at 6 months of purchases. Every month doesn't have every single cohort_age as well. </li>
 </ul><ul>
 <li>Link: https://docs.google.com/spreadsheets/d/1nvR6x8qdKGAAbpnt9N_7mEdZftS4jk3T9YcwfOVyeBI/edit?usp=sharing</li>
 </ul>
